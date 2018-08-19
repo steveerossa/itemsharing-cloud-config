@@ -16,6 +16,3 @@ spring:
       validation-query: SELECT 1
 server:
   port: 8081
-security:
-  basic:
-    enabled: false
